@@ -15,7 +15,7 @@ _<u>Installation</u>_
 In order to get this informations, you have to contact [telma][2] commercial service and you have to be a recognized society with a legal notice.
 
 _<u>want to integrate it to another technologie?</u>_
-contact me by mail : [ravelomevasoavina@gmail.com](mailto:mevaravelosoavina@gmail.com?subject=mvola%20integration)
+contact me by mail : [mevaravelosoavina@gmail.com](mailto:mevaravelosoavina@gmail.com?subject=mvola%20integration)
 
 Thanks!!!
 
