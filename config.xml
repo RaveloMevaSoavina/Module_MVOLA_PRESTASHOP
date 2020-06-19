@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mvola</name>
+	<displayName><![CDATA[MVola]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Accepter Paiement par MVola]]></description>
+	<author><![CDATA[RaveloMevaSoavina]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Allez-vous desinstaller ce module?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
